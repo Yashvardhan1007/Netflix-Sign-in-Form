@@ -1,0 +1,134 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.logo
+{
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    transform: translate(-50, -50);
+    left: 17%;
+    top: 2%;
+    
+}
+.signinform
+{
+    width: 450px;
+    height: 680px;
+    background-color: black;
+    position: absolute;
+    transform: translate(-50, -50);
+    left: 35%;
+    top: 8%;
+    color: white;
+    
+}
+input
+{
+    width: 320px;
+    height: 55px;
+    background-color: transparent;
+    outline: none;
+    border: 0.5px solid white;
+    border-radius: 6px;
+    text-align: center;
+}
+.idpass
+{
+    margin-top: 25px;
+    margin-left: 10%;
+    
+    
+}
+#password
+{
+    margin-top: 20px;
+}
+.signinbtn
+{
+    width: 320px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 6px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+.signincode
+{
+    width: 320px;
+    height: 40px;
+    background-color: gray;
+    color: white;
+    border-radius: 6px;
+    font-size: 18px;
+    opacity: 0.3;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10.5%;
+}
+.or
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.box
+{
+    height: 15px;
+    width: 15px;
+}
+.about
+{
+    display: flex;
+    margin-left: 10.5%;
+    font-size: 15px;
+    margin-top: px;
+}
+.new
+{
+    color: gray;
+    opacity: 0.8;
+}
+.para   
+{
+    color: gray;
+    opacity: 0.8;
+    font-size: 12px;
+}
+.learnmore
+{
+    color: #448EF4;
+    opacity: o.8;
+}
+.heading
+{
+    margin-left: 5%;
+    margin-top: 40px;
+}
+.forgot
+{
+    text-align: center;
+    margin-top: 15px;
+    font-family: poppins;
+}
+.rememberme
+{
+    margin-left: 10.5%;
+}
+.para , .learnmore
+{
+    margin-left: 10%;
+}
